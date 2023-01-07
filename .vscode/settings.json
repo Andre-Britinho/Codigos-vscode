@@ -1,0 +1,6 @@
+{
+    //so para atualizar
+    "files.associations": {
+        "stdlib.h": "c"
+    }
+}
